@@ -1,0 +1,22 @@
+{
+  "name": "laya-marketplace",
+  "owner": {
+    "name": "Community",
+    "email": ""
+  },
+  "metadata": {
+    "description": "Local free System One decision model (Laya) for Claude Code",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "laya",
+      "description": "Local free System One decision model — fast typed decisions with calibrated probabilities. Open-source alternative to TypeSafe Jev.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/laya"
+      ]
+    }
+  ]
+}

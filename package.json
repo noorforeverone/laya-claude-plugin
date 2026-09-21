@@ -1,0 +1,25 @@
+{
+  "name": "laya-claude-plugin",
+  "version": "1.0.0",
+  "description": "Claude Code plugin for local Laya System One decision model",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.1",
+    "@receptron/laya": "^0.1.0",
+    "zod": "^3.24.2"
+  },
+  "scripts": {
+    "postinstall": "echo 'Laya plugin dependencies installed. First use will download the model (~1.7GB).'"
+  },
+  "keywords": [
+    "laya",
+    "claude-code",
+    "mcp",
+    "system-one"
+  ],
+  "license": "MIT"
+}

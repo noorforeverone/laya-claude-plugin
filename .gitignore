@@ -1,0 +1,10 @@
+node_modules/
+.npm/
+*.log
+.DS_Store
+.env
+.env.*
+dist/
+build/
+*.tgz
+.cache/
