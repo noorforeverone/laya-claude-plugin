@@ -1,0 +1,22 @@
+{
+  "name": "laya",
+  "version": "1.0.0",
+  "description": "Local free System One decision model (Laya) — fast typed decisions with calibrated probabilities. Open-source alternative to TypeSafe Jev.",
+  "author": {
+    "name": "Community",
+    "url": "https://github.com/convaiinnovations/laya"
+  },
+  "homepage": "https://github.com/noorforeverone/laya-claude-plugin",
+  "repository": "https://github.com/noorforeverone/laya-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "laya",
+    "system-one",
+    "decision",
+    "local",
+    "mcp",
+    "jev-alternative",
+    "classification",
+    "routing"
+  ]
+}

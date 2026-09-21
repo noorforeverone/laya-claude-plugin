@@ -1,0 +1,9 @@
+{
+  "laya": {
+    "command": "node",
+    "args": ["${CLAUDE_PLUGIN_ROOT}/servers/laya-mcp.mjs"],
+    "env": {
+      "LAYA_CACHE": "${HOME}/.cache/laya"
+    }
+  }
+}
