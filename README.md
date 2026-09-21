@@ -1,8 +1,9 @@
 # Laya – Claude Code Plugin
+# Open-source alternative to TypeSafe Jev. 
 
 **Local, free System One decision model for Claude Code.**
 
-Open-source alternative to TypeSafe Jev.  
+ 
 Fast typed decisions (Choice / Score / Noul) with calibrated probabilities — fully offline after the first download.
 
 ---
